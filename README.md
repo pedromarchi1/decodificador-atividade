@@ -19,16 +19,16 @@ Descriptografar Texto: Converte o texto criptografado de volta à versão origin
 
 Copiar Texto: Permite copiar o texto criptografado ou descriptografado para a área de transferência.
 
-**Tecnologias Utilizadas
-**
+**Tecnologias Utilizadas**
+
 HTML5: Estruturação do conteúdo.
 
 CSS3: Estilização da página com design responsivo e moderno.
 
 JavaScript: Implementação das funcionalidades de criptografia e descriptografia.
 
-**Estrutura do Projeto
-**
+**Estrutura do Projeto**
+
 Decodificador/
 │
 
@@ -38,8 +38,8 @@ Decodificador/
 
 └── script.js        # Lógica JavaScript para criptografia e descriptografia
 
-**Como Usar
-**
+**Como Usar**
+
 Clone o repositório:
 
 git clone https://github.com/pedromarchi1/decodificador-atividade.git
