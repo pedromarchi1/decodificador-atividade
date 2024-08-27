@@ -1,7 +1,7 @@
 Este projeto é um simples decodificador de textos, onde você pode criptografar e descriptografar mensagens usando regras de substituição de letras. A aplicação é construída utilizando HTML, CSS e JavaScript, e é ideal para quem deseja trocar mensagens secretas.
 
 
-Funcionalidades
+**Funcionalidades**
 
 Criptografar Texto: Converte o texto inserido para uma versão criptografada usando as seguintes substituições:
 
@@ -19,27 +19,30 @@ Descriptografar Texto: Converte o texto criptografado de volta à versão origin
 
 Copiar Texto: Permite copiar o texto criptografado ou descriptografado para a área de transferência.
 
-Tecnologias Utilizadas
-
+**Tecnologias Utilizadas
+**
 HTML5: Estruturação do conteúdo.
 
 CSS3: Estilização da página com design responsivo e moderno.
 
 JavaScript: Implementação das funcionalidades de criptografia e descriptografia.
 
-Estrutura do Projeto
-
+**Estrutura do Projeto
+**
 Decodificador/
 │
+
 ├── index.html       # Arquivo HTML principal
+
 ├── style.css        # Estilos CSS para a interface
+
 └── script.js        # Lógica JavaScript para criptografia e descriptografia
 
-Como Usar
-
+**Como Usar
+**
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/decodificador.git
+git clone https://github.com/pedromarchi1/decodificador-atividade.git
 
 cd decodificador
 
