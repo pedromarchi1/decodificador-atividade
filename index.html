@@ -1,0 +1,30 @@
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Decodificador de Textos</h1>
+    </header>
+    <main class="conteudo-principal">
+        <section class="entrada">
+            <textarea id="textoEntrada" placeholder="Apenas letras minúsculas" aria-label="Área de entrada de texto"></textarea>
+            <div class="botao-container">
+                <button id="botaoCriptografar" aria-label="Botão para criptografar o texto">Criptografar</button>
+                <button id="botaoDescriptografar" aria-label="Botão para descriptografar o texto">Descriptografar</button>
+            </div>
+        </section>
+        <section class="saida">
+            <textarea id="textoSaida" readonly aria-label="Área de saída de texto criptografado ou descriptografado"></textarea>
+            <button id="botaoCopiar" aria-label="Botão para copiar o texto da área de saída">Copiar</button>
+        </section>
+    </main>
+    <footer class="sobre_mim">
+        <h3> Pedro Machado Marchi - 2024</h3>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
